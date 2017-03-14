@@ -31,12 +31,12 @@ body{
     float: left;
     z-index: 1;
 }
-.content > div > article > div{
-    width: 25%;
-    height: inherit;
-    background-color: grey;
-    float: left;
-    z-index:0;
+.grey{
+  width: 100%;
+  height: inherit;
+  background-color: grey;
+  float: left;
+  z-index:0;
 }
 
 .content > div > article > h3,
